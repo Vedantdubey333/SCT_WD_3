@@ -69,6 +69,4 @@ You can add or edit these questions as needed.
 - Glass-morphism quiz panel.
 - Vibrant accent colors for options and buttons.
 
-## License
 
-MIT
